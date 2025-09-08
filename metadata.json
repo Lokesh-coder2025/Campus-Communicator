@@ -1,0 +1,5 @@
+{
+  "name": "Announcement Bot",
+  "description": "An AI-powered application to generate and deliver text-to-speech announcements. Features include voice selection, AI-powered text improvement, and scheduling reminders.",
+  "requestFramePermissions": []
+}
